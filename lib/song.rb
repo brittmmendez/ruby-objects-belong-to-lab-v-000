@@ -1,6 +1,6 @@
 class Song
 
-attr_accessor :title, :atitst
+attr_accessor :title, :artist
 
 
 
